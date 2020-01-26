@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: password-manager
+Source: https://github.com/ThilinaManamgoda/password-manager
+Files: debian/*
+Copyright: 2020 maanadev <maanadev@apache.org>
+License: Apache-2.0
+ 

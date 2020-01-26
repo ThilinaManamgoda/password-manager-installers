@@ -1,0 +1,8 @@
+Package: password-manager
+Version: 0.8.0
+Priority: optional
+Section: utils
+Maintainer: maanadev <maanadev@apache.org>
+Architecture: amd64
+Description: Maintain passwords locally
+ A local Password manager
