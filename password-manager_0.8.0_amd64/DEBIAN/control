@@ -4,5 +4,5 @@ Priority: optional
 Section: utils
 Maintainer: maanadev <maanadev@apache.org>
 Architecture: amd64
-Description: Maintain passwords locally
- A local Password manager
+Description: Encrypt your passwords into a file and have access with ease.
+ A local password manager which simply encrypts your passwords in to a file and searching passwords made easy.
