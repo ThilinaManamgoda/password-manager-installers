@@ -1,4 +1,0 @@
-FROM maanadev/ubuntu-debian-tools:1.0.0
-COPY docker-entrypoint.sh /home/ubuntu1/
-WORKDIR "/home/ubuntu"
-#ENTRYPOINT ["/home/ubuntu/docker-entrypoint.sh"]
