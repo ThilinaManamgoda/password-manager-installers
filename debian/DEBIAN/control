@@ -2,6 +2,7 @@ Package: password-manager
 Version: 0.8.0
 Priority: optional
 Section: utils
+Depends: xclip (>= 0.12)
 Maintainer: maanadev <maanadev@apache.org>
 Architecture: amd64
 Description: Encrypt your passwords into a file and have access with ease.
