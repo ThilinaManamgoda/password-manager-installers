@@ -1,5 +1,5 @@
-password-manager (0.9.0-1) unstable; urgency=medium
+password-manager (0.9.1-1) unstable; urgency=medium
 
   * Initial release for password-manager deb package.
 
- -- maanadev <maanadec@apache.org>  Wed, 15 Apr 2020 10:24:01 +0000
+ -- maanadev <maanadec@apache.org>  Sun, 19 Apr 2020 10:24:01 +0000
